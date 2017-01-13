@@ -1,0 +1,8 @@
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\bin\Debug\InventorySystemCoopPharmacy.exe
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\bin\Debug\InventorySystemCoopPharmacy.pdb
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\obj\Debug\InventorySystemCoopPharmacy.csprojResolveAssemblyReference.cache
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\obj\Debug\InventorySystemCoopPharmacy.frmLogin.resources
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\obj\Debug\InventorySystemCoopPharmacy.Properties.Resources.resources
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\obj\Debug\InventorySystemCoopPharmacy.csproj.GenerateResource.Cache
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\obj\Debug\InventorySystemCoopPharmacy.exe
+c:\users\selfish24\documents\visual studio 2013\Projects\InventorySystemCoopPharmacy\InventorySystemCoopPharmacy\obj\Debug\InventorySystemCoopPharmacy.pdb
